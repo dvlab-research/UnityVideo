@@ -7,13 +7,15 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2512.07831-b31b1b.svg)](https://arxiv.org/abs/2512.07831)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jackailab.github.io/Projects/UnityVideo)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/JackAILab/UnityVideo)
+[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/JackAILab/OpenUni)
 
 **[Jiehui Huang](https://github.com/)**<sup>1,†</sup> · 
 [Yuechen Zhang](https://github.com/)<sup>2</sup> · 
 [Xu He](https://github.com/)<sup>3</sup> · 
 [Yuan Gao](https://github.com/)<sup>4</sup> · 
 [Zhi Cen](https://github.com/)<sup>4</sup> · 
-[Bin Xia](https://github.com/)<sup>2</sup> · 
+[Bin Xia](https://github.com/)<sup>2</sup> · <br>
 [Yan Zhou](https://github.com/)<sup>4</sup> · 
 [Xin Tao](https://github.com/)<sup>4</sup> · 
 [Pengfei Wan](https://github.com/)<sup>4</sup> · 
@@ -124,7 +126,7 @@ This architecture enables knowledge sharing and improves generalization across d
 - [ ] Release inference code
 - [ ] Release pretrained models
 - [ ] Release evaluation scripts
-- [x] Release data
+- [ ] Release data
 - [ ] Add Gradio demo
 - [ ] Add Colab notebook
 - [ ] Add more usage examples
