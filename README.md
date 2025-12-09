@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="UnityVideo/assets/Logo.png" alt="UnityVideo Logo" height="120px">
+<img src="assets/Logo.png" alt="UnityVideo Logo" height="120px">
 
-# UnityVideo
-
-## Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation
+# UnityVideo : Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.07831-b31b1b.svg)](https://arxiv.org/abs/2512.07831)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jackailab.github.io/Projects/UnityVideo)
@@ -38,7 +36,7 @@
 ## 📖 Introduction
 
 <div align="center">
-  <img src="UnityVideo/assets/teaser.png" width="100%">
+  <img src="assets/teaser.png" width="100%">
 </div>
 
 **UnityVideo** is a unified generalist framework for multi-task multi-modal video understanding that enables:
@@ -66,7 +64,7 @@ Our unified architecture achieves state-of-the-art performance across multiple v
 ## 🎯 Method
 
 <div align="center">
-  <img src="UnityVideo/assets/pipeline.png" width="100%">
+  <img src="assets/pipeline.png" width="100%">
 </div>
 
 UnityVideo employs a unified multi-modal multi-task learning framework that consists of:
@@ -79,7 +77,7 @@ UnityVideo employs a unified multi-modal multi-task learning framework that cons
 This architecture enables knowledge sharing and improves generalization across different video understanding tasks.
 
 ---
-
+<!-- 
 ## 📊 Results Gallery
 
 ### 🎬 Text-to-Video Generation
@@ -104,9 +102,9 @@ This architecture enables knowledge sharing and improves generalization across d
     <td align="center">Depth-controlled generation</td>
     <td align="center">Edge-controlled generation</td>
   </tr>
-</table>
+</table> -->
 
-### 🔍 Modality Estimation
+<!-- ### 🔍 Modality Estimation
 
 <table>
   <tr>
@@ -116,7 +114,7 @@ This architecture enables knowledge sharing and improves generalization across d
     <td align="center">Depth estimation results</td>
     <td align="center">Normal estimation results</td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -138,6 +136,24 @@ This architecture enables knowledge sharing and improves generalization across d
 
 This repository is released under the **Apache-2.0 license** as found in the [LICENSE](LICENSE) file.
 
+
+<!-- ## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/UnityVideo&type=Date)](https://star-history.com/#YOUR_USERNAME/UnityVideo&Date)
+
+---
+
+<div align="center"> -->
+
+### 🚀 Stay Tuned for Updates!
+
+**Follow this project** to get notified when we release the code!
+
+<!-- [⭐ Star](https://github.com/YOUR_USERNAME/UnityVideo) · [🔔 Watch](https://github.com/YOUR_USERNAME/UnityVideo/subscription) · [🍴 Fork](https://github.com/YOUR_USERNAME/UnityVideo/fork) -->
+
+</div>
+
+
 ---
 
 ## 📚 Citation
@@ -154,19 +170,3 @@ If you find this work useful for your research, please cite:
 ```
 
 ---
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/UnityVideo&type=Date)](https://star-history.com/#YOUR_USERNAME/UnityVideo&Date)
-
----
-
-<div align="center">
-
-### 🚀 Stay Tuned for Updates!
-
-**Follow this project** to get notified when we release the code!
-
-[⭐ Star](https://github.com/YOUR_USERNAME/UnityVideo) · [🔔 Watch](https://github.com/YOUR_USERNAME/UnityVideo/subscription) · [🍴 Fork](https://github.com/YOUR_USERNAME/UnityVideo/fork)
-
-</div>
