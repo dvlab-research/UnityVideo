@@ -80,6 +80,10 @@ This architecture enables knowledge sharing and improves generalization across d
 
 ## 📊 Results Gallery
 
+<div align="center">
+  <img src="assets/baseline_compare_all.png" width="100%">
+</div>
+
 ### 🎬 Text-to-Video Generation
 
 <table>
