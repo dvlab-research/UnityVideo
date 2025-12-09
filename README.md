@@ -10,7 +10,7 @@
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/JackAILab/UnityVideo)
 [![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/JackAILab/OpenUni)
 
-**[Jiehui Huang](https://github.com/)**<sup>1,†</sup> · 
+**[Jiehui Huang](https://github.com/)**<sup>1</sup> · 
 [Yuechen Zhang](https://github.com/)<sup>2</sup> · 
 [Xu He](https://github.com/)<sup>3</sup> · 
 [Yuan Gao](https://github.com/)<sup>4</sup> · 
@@ -22,8 +22,6 @@
 **[Jiaya Jia](https://jiaya.me/)**<sup>1,✉</sup>
 
 <sup>1</sup>HKUST · <sup>2</sup>CUHK · <sup>3</sup>Tsinghua University · <sup>4</sup>Kling Team, Kuaishou Technology
-
-<sup>†</sup>Work done during internship at Kling Team, Kuaishou Technology
 
 <sup>✉</sup>Corresponding Author
 
@@ -79,18 +77,14 @@ UnityVideo employs a unified multi-modal multi-task learning framework that cons
 This architecture enables knowledge sharing and improves generalization across different video understanding tasks.
 
 ---
-<!-- 
+
 ## 📊 Results Gallery
 
 ### 🎬 Text-to-Video Generation
 
 <table>
   <tr>
-    <td align="center" colspan="2"><b>Coming Soon</b></td>
-  </tr>
-  <tr>
-    <td align="center">More examples will be added after code release</td>
-    <td align="center">Stay tuned for our demo videos!</td>
+    <td align="center" colspan="2"><b>More examples coming Soon</b></td>
   </tr>
 </table>
 
@@ -98,25 +92,17 @@ This architecture enables knowledge sharing and improves generalization across d
 
 <table>
   <tr>
-    <td align="center" colspan="2"><b>Coming Soon</b></td>
+    <td align="center" colspan="2"><b>More examples coming Soon</b></td>
   </tr>
-  <tr>
-    <td align="center">Depth-controlled generation</td>
-    <td align="center">Edge-controlled generation</td>
-  </tr>
-</table> -->
+</table>
 
-<!-- ### 🔍 Modality Estimation
+### 🔍 Modality Estimation
 
 <table>
   <tr>
-    <td align="center" colspan="2"><b>Coming Soon</b></td>
+    <td align="center" colspan="2"><b>More examples coming Soon</b></td>
   </tr>
-  <tr>
-    <td align="center">Depth estimation results</td>
-    <td align="center">Normal estimation results</td>
-  </tr>
-</table> -->
+</table>
 
 ---
 
