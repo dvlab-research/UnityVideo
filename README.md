@@ -150,7 +150,7 @@ If you find this work useful for your research, please cite:
   title={UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation},
   author={Huang, Jiehui and Zhang, Yuechen and He, Xu and Gao, Yuan and Cen, Zhi and Xia, Bin and Zhou, Yan and Tao, Xin and Wan, Pengfei and Jia, Jiaya},
   journal={arXiv preprint arXiv:2512.07831},
-  year={2024}
+  year={2025}
 }
 ```
 
