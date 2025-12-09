@@ -116,7 +116,7 @@ This architecture enables knowledge sharing and improves generalization across d
 - [ ] Add Gradio demo
 - [ ] Add Colab notebook
 - [ ] Add more usage examples
-- [x] Release technical report
+- [x] Release arXiv paper
 
 ---
 
