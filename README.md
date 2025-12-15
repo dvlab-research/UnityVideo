@@ -115,8 +115,8 @@ This architecture enables knowledge sharing and improves generalization across d
 - [ ] Release training code
 - [ ] Release inference code
 - [ ] Release pretrained models
-- [ ] Release data
 - [ ] Add Gradio demo, Colab notebook, and more usage examples
+- [x] Release data
 - [x] Release arXiv paper
 
 ---
