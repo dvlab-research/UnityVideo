@@ -35,7 +35,7 @@
 
 ## 📢 News
 
-- **[2025.12.15]** 🎉 OpenUni dataset is now open-sourced! Check it out on [🤗 Hugging Face](https://huggingface.co/datasets/JackAILab/OpenUni)
+- **[2025.12.15]** 🎉 Part of the OpenUni dataset is now open-sourced! Check it out on [🤗 Hugging Face](https://huggingface.co/datasets/JackAILab/OpenUni)
 - **[2025.12.08]** 🔥 arXiv paper released !
 
 ---
