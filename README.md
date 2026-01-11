@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/JackAILab/UnityVideo)
 [![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/JackAILab/OpenUni)
+[![量子位](https://img.shields.io/badge/媒体报道-量子位-09B83E?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/CuvHE8hd8xcPo6WCXESZfQ)
 
 **[Jiehui Huang](https://github.com/)**<sup>1</sup> · 
 [Yuechen Zhang](https://github.com/)<sup>2</sup> · 
