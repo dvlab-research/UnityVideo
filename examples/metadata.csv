@@ -1,0 +1,2 @@
+video,prompt,depth,densepose,raft,segmentation,skeleton
+/path/to/rgb.mp4,A person walks through a room.,/path/to/depth.mp4,/path/to/densepose.mp4,/path/to/raft.mp4,/path/to/segmentation.mp4,/path/to/skeleton.mp4

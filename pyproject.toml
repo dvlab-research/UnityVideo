@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unityvideo"
+version = "0.1.0"
+description = "Unified multi-modal multi-task video generation on Wan2.2"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = [
+  "bitsandbytes>=0.45",
+  "diffsynth==2.0.2",
+  "einops>=0.8",
+  "huggingface-hub>=0.25",
+  "imageio[ffmpeg]>=2.34",
+  "numpy>=1.26",
+  "Pillow>=10",
+  "safetensors>=0.4",
+  "torch>=2.6",
+]
+
+[project.scripts]
+unityvideo-infer = "unityvideo.inference:main"
+unityvideo-train = "unityvideo.train:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.9"]
+
+[tool.setuptools.packages.find]
+include = ["unityvideo*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

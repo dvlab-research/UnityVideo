@@ -1,0 +1,23 @@
+{
+  "architecture": "UnifiedWanModel",
+  "base_model": "Wan-AI/Wan2.2-TI2V-5B",
+  "checkpoint_step": 15000,
+  "ema_decay": 0.9999,
+  "modalities": [
+    "depth",
+    "densepose",
+    "raft",
+    "segmentation",
+    "skeleton"
+  ],
+  "modality_weights": [0.2, 0.2, 0.2, 0.4, 0.4],
+  "tasks": ["text2all", "video2flow", "flow2video"],
+  "task_weights": [0.5, 0.25, 0.25],
+  "num_frames": 33,
+  "height": 256,
+  "width": 256,
+  "checkpoint_sha256": {
+    "ema": "0df3909e312526c46f68097958afa055868f73354fe4276d693f7ebc398e6a39",
+    "raw": "4ee83a43ffdbaee90e7ff6a25fe108d8d65d255cd0803e3972bbbfb5b01db48c"
+  }
+}
